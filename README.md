@@ -1,0 +1,2 @@
+# comic-craft-AI-Comic-story-creator-using-Gemini-Models
+Comic Craft is an AI-powered comic story creator built with Gemini models. It transforms simple ideas into engaging comic stories with characters, dialogues, scenes, and visual storytelling. Users can generate creative plots, customize characters, and develop complete comics quickly, making storytelling fun, simple, and accessible for everyone.
